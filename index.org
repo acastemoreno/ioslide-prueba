@@ -1,0 +1,12 @@
+#+TITLE: Prueba de slide
+#+AUTHOR: Albert Castellano
+
+** Who are we??
+-Alasdsad sa dsa d sa d
+** Akasds
+Hola amiguitos xD
+#+BEGIN_SRC clojure
+(when (not nil) 
+  "nil is false")
+;; => "nil is false"
+#+END_SRC 
